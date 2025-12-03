@@ -56,13 +56,6 @@ Color variables and spacing are defined in `css/main.css`.
 ### Animation
 Path behavior can be adjusted in `js/path-sketch.js`.
 
-## Deployment
-
-Works with any static hosting:
-- GitHub Pages
-- Netlify
-- Vercel
-- Traditional web hosting
 
 Upload all files maintaining the folder structure.
 
